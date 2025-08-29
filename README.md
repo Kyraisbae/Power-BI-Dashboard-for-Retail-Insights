@@ -8,8 +8,10 @@ I used the Superstore dataset to build an interactive Power BI dashboard with ke
 - Visualizations: Sales by Region, Top Products, and Revenue Growth %
 - Slicers for Region, Category, and Time for dynamic filtering
 - Custom visuals for better storytelling
+
  Demo
 🎥 Watch the full dashboard walkthrough here
+
 Tools Used
 - Microsoft Power BI
 - DAX for custom measures
